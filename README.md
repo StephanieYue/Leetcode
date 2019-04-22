@@ -4,7 +4,7 @@
 Problem | Description | Python Solution
 :------- | :----- | :-----:
 [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | First & Last Appearance | [x](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/Leetcode%2034.ipynb)
-[74](https://leetcode.com/problems/search-a-2d-matrix/) | Matrix |
+[74](https://leetcode.com/problems/search-a-2d-matrix/) | Matrix | [x](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/Leetcode%2074.ipynb)
 [162](https://leetcode.com/problems/find-peak-element/) | Peak |
 [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Minimum Rotated Sorted Array |
 [704](https://leetcode.com/problems/binary-search/) | Easy |
