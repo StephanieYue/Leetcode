@@ -1,7 +1,7 @@
 # 高效刷 LeetCode
 ## `Binary Search 二分查找`
 
-Problem | CName | Python Solution
+Problem | Description | Python Solution
 :------- | :----- | :-----:
 [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | First & Last Appearance |  
 [74](https://leetcode.com/problems/search-a-2d-matrix/) | Matrix |
