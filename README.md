@@ -1,9 +1,9 @@
 # 高效刷 LeetCode
 ## `Binary Search 二分查找`
 
-Problem | CName
-:------- | :-----:
-[69. Sqrt(x)](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/69.md) | 平方根
+Problem | CName | Python Solution
+:------- | :----- | :-----:
+[69. Sqrt(x)](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/69.md) | 平方根 | [69. Sqrt(x)](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/69.md) 
 
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
