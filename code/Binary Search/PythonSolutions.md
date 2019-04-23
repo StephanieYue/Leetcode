@@ -141,3 +141,40 @@ class Solution(object):
                 tail -= 1
         # return res # 返回所有组合
 ```
+
+### Leetcode 302
+```python
+class Solution(object):
+    def minArea(self,image,x,y):
+        top = self.searchrows(image,0,x,True)
+        bottom = self.searchrows(image,x+1,len(image),False)
+        left = self.searchcols(image,0,y,top,bottom,True)
+        right = self.searchcols(image,y+1,len(image[0]),top,bottom,False)
+        
+        return (right-left)*(bottom-top)
+    
+    # this is O(nlogm)
+    def searchrows(self,image,start,end,op):
+        while start < end:
+            mid = (start+end)//2
+            
+            if ('1' in  image[mid]) == op :
+                end = mid
+            else:
+                start = mid + 1
+                
+        return end
+    
+    # this is O(mlogn)
+    #pass in top and bottom to restrict the columns to search
+    def searchcols(self,image,start,end,top,bottom,op):
+        while start < end:
+            mid = (start+end)//2
+            if any(image[k][mid] == '1' for k in range(top, bottom)) == op:
+                end = mid
+            else:
+                start = mid + 1
+                
+        return end
+  
+```
