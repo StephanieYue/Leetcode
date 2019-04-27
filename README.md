@@ -12,8 +12,6 @@ Problem | Description | Python Solution
 [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Extension to the Matrix Problem|
 [302](https://www.lintcode.com/problem/smallest-rectangle-enclosing-black-pixels/description) | Hard |[x](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/Leetcode%20302.ipynb)
 
-[Summary of Sulotions](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/PythonSolutions.md)
-
 `Copyright © 2018 Decalogue. All Rights Reserved.`
 
 关于作者：[Decalogue](https://www.decalogue.cn)
