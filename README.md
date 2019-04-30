@@ -9,7 +9,6 @@ Problem | Description | Python Solution
 [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Minimum Rotated Sorted Array |[x](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/Leetcode%20153.ipynb)
 [704](https://leetcode.com/problems/binary-search/) | Easy |[x](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/Leetcode%20704.ipynb)
 [81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |  Extension to the Matrix Problem | [x](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/Leetcode%2081.ipynb)
-[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Extension to the Matrix Problem|
 [302](https://www.lintcode.com/problem/smallest-rectangle-enclosing-black-pixels/description) | Hard |[x](https://github.com/StephanieYue/Leetcode/blob/master/code/Binary%20Search/Leetcode%20302.ipynb)
 
 `Copyright © 2018 Decalogue. All Rights Reserved.`
