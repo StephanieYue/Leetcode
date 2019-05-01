@@ -18,6 +18,13 @@ Problem | Description
 :------- | :-----:
 [103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Zigzag
 [130](https://leetcode.com/problems/surrounded-regions/) | Surrounded Regions
+[199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View
+[210](https://leetcode.com/problems/course-schedule-ii/) | Course Schedule
+[529](https://leetcode.com/problems/minesweeper/) | Mine Sweeper
+[787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops
+[126](https://leetcode.com/problems/word-ladder-ii/) | Word Ladder II
+[301](https://leetcode.com/problems/remove-invalid-parentheses/) | Remove Invalid Parentheses
+
 
 `Copyright © 2018 Decalogue. All Rights Reserved.`
 
