@@ -16,7 +16,7 @@ Problem | Description
 
 Problem | Description 
 :------- | :-----:
-[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Zigzag
+[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Zigzag Print Binary Tree
 [130](https://leetcode.com/problems/surrounded-regions/) | Surrounded Regions
 [199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View
 [210](https://leetcode.com/problems/course-schedule-ii/) | Course Schedule
