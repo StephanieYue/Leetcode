@@ -24,7 +24,20 @@ Problem | Description
 [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops
 [126](https://leetcode.com/problems/word-ladder-ii/) | Word Ladder II
 [301](https://leetcode.com/problems/remove-invalid-parentheses/) | Remove Invalid Parentheses
-
+[102]|
+[310]|
+[541]|
+[127]|
+[934]|
+[407]|
+[743]|
+[107]|
+[111]|
+[101]|
+[200]|
+[207]|
+[133]|
+[279]|
 
 `Copyright © 2018 Decalogue. All Rights Reserved.`
 
