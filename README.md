@@ -30,7 +30,7 @@ Problem | Description
 [127](https://leetcode.com/problems/word-ladder/submissions/)| Word Ladder
 [934]| DFS and BFS
 [407](https://leetcode.com/problems/trapping-rain-water-ii/)| Trapping Water II Hard
-[743]|
+[743](https://leetcode.com/problems/network-delay-time/submissions/)| Network Delay Time
 [107]|
 [111]|
 [101]|
