@@ -28,7 +28,7 @@ Problem | Description
 [310](https://leetcode.com/problems/minimum-height-trees/submissions/)| Minimum Height Trees
 [542](https://leetcode.com/problems/01-matrix/)| 01Matrix
 [127](https://leetcode.com/problems/word-ladder/submissions/)| Word Ladder
-[934]|
+[934]| DFS and BFS
 [407]|
 [743]|
 [107]|
