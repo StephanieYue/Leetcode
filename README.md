@@ -29,7 +29,7 @@ Problem | Description
 [542](https://leetcode.com/problems/01-matrix/)| 01Matrix
 [127](https://leetcode.com/problems/word-ladder/submissions/)| Word Ladder
 [934]| DFS and BFS
-[407](https://leetcode.com/problems/trapping-rain-water-ii/)| 
+[407](https://leetcode.com/problems/trapping-rain-water-ii/)| Trapping Water II Hard
 [743]|
 [107]|
 [111]|
