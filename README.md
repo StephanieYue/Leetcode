@@ -35,7 +35,7 @@ Problem | Description
 [111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| Minimum Depth
 [101](https://leetcode.com/problems/symmetric-tree/submissions/)| Symmetric Tree
 [200](https://leetcode.com/problems/number-of-islands/)| Number of Islands
-[207]|
+[207](https://leetcode.com/problems/course-schedule/submissions/)| Course Schedule
 [133]|
 [279]|
 
