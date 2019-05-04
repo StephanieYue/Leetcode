@@ -39,6 +39,25 @@ Problem | Description
 [133](https://leetcode.com/problems/clone-graph/submissions/)| Clone Graph
 [279](https://leetcode.com/problems/perfect-squares/submissions/)| Perfect Squares
 
+## `Depth First Search 深度优先搜索`
+
+Problem | Description 
+:------- | :-----:
+[144] |
+[530] |
+[897] |
+[110] |
+[124] |
+[79] |
+[98] |
+[529] |
+[257] |
+[329] |
+[113] |
+[695] |
+[247] |
+
+
 `Copyright © 2018 Decalogue. All Rights Reserved.`
 
 关于作者：[Decalogue](https://www.decalogue.cn)
