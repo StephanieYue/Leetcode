@@ -28,7 +28,7 @@ Problem | Description
 [310](https://leetcode.com/problems/minimum-height-trees/submissions/)| Minimum Height Trees
 [542](https://leetcode.com/problems/01-matrix/)| 01Matrix
 [127](https://leetcode.com/problems/word-ladder/submissions/)| Word Ladder
-[934]| DFS and BFS
+[934](https://leetcode.com/problems/shortest-bridge/submissions/)| Shortest Bridge of Two Islands (DFS and BFS)
 [407](https://leetcode.com/problems/trapping-rain-water-ii/)| Trapping Water II Hard
 [743](https://leetcode.com/problems/network-delay-time/submissions/)| Network Delay Time
 [107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| Reverse Print Binary Tree
