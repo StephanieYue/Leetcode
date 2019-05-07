@@ -20,7 +20,6 @@ Problem | Description
 [130](https://leetcode.com/problems/surrounded-regions/) | Surrounded Regions (DFS or BFS)
 [199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View
 [210](https://leetcode.com/problems/course-schedule-ii/) | Course Schedule
-[529](https://leetcode.com/problems/minesweeper/) | Mine Sweeper
 [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops
 [126](https://leetcode.com/problems/word-ladder-ii/) | Word Ladder II
 [301](https://leetcode.com/problems/remove-invalid-parentheses/) | Remove Invalid Parentheses
@@ -50,7 +49,7 @@ Problem | Description
 [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Binary Tree Maximum Path Sum
 [79](https://leetcode.com/problems/word-search/) | Word Search
 [98](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree
-[529] |
+[529](https://leetcode.com/problems/minesweeper/) | Mine Sweeper
 [257](https://leetcode.com/problems/binary-tree-paths/submissions/) | Binary Tree Paths
 [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Longest Increasing Path
 [113](https://leetcode.com/problems/path-sum-ii/) | Path Sum II
