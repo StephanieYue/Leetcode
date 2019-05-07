@@ -54,7 +54,7 @@ Problem | Description
 [257](https://leetcode.com/problems/binary-tree-paths/submissions/) | Binary Tree Paths
 [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Longest Increasing Path
 [113](https://leetcode.com/problems/path-sum-ii/) | Path Sum II
-[695](https://leetcode.com/problems/max-area-of-island/) | 
+[695](https://leetcode.com/problems/max-area-of-island/) | Max Area of Island
 [247] |
 
 
