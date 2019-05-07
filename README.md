@@ -48,12 +48,12 @@ Problem | Description
 [897] |
 [110] |
 [124] |
-[79] |
+[79](https://leetcode.com/problems/word-search/) | Word Search
 [98] |
 [529] |
-[257] |
-[329] |
-[113] |
+[257](https://leetcode.com/problems/binary-tree-paths/submissions/) | Binary Tree Paths
+[329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Longest Increasing Path
+[113](https://leetcode.com/problems/path-sum-ii/) | Path Sum II
 [695] |
 [247] |
 
