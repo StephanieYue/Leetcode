@@ -49,7 +49,7 @@ Problem | Description
 [110](https://leetcode.com/problems/balanced-binary-tree/) | Balanced Binary Tree
 [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Binary Tree Maximum Path Sum
 [79](https://leetcode.com/problems/word-search/) | Word Search
-[98] |
+[98](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree
 [529] |
 [257](https://leetcode.com/problems/binary-tree-paths/submissions/) | Binary Tree Paths
 [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Longest Increasing Path
