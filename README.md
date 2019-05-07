@@ -46,7 +46,7 @@ Problem | Description
 [144](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/) | Preorder Trversal
 [530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Minimum Absolute Difference
 [897](https://leetcode.com/problems/increasing-order-search-tree/) | Increasing Order Search 
-[110] |
+[110](https://leetcode.com/problems/balanced-binary-tree/) | Balanced Binary 
 [124] |
 [79](https://leetcode.com/problems/word-search/) | Word Search
 [98] |
