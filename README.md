@@ -66,7 +66,8 @@ Problem | Description
 [51] | 
 [52] | 
 [90](https://leetcode.com/problems/subsets-ii/)| Subsets II 
-[46] | 
+[46](https://leetcode.com/problems/permutations/) | Permutations 
+[47] | Permutations II
 [63] | 
 [40] | 
 [36] | 
