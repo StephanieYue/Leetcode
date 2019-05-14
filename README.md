@@ -62,13 +62,13 @@ Problem | Description
 :------- | :-----:
 [78](https://leetcode.com/problems/subsets/) | Subsets
 [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of Phone Number
-[62] | 
+[62](https://leetcode.com/problems/unique-paths/) | Unique Paths 
 [51] | 
 [52] | 
 [90](https://leetcode.com/problems/subsets-ii/)| Subsets II 
 [46](https://leetcode.com/problems/permutations/) | Permutations 
-[47] | Permutations II
-[63] | 
+[47](https://leetcode.com/problems/permutations-ii/) | Permutations II
+[63](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II 
 [40] | 
 [36] | 
 [37] | 
