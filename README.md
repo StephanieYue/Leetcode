@@ -61,7 +61,7 @@ Problem | Description
 Problem | Description 
 :------- | :-----:
 [78](https://leetcode.com/problems/subsets/) | Subsets
-[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 
+[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of Phone Number
 [62] | 
 [51] | 
 [52] | 
