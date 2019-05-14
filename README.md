@@ -57,6 +57,28 @@ Problem | Description
 [247](https://leetcode.com/problems/strobogrammatic-number-ii/) | Strobogrammatic Number II
 
 
+## `Backtracking 回溯法`
+Problem | Description 
+:------- | :-----:
+[78] | 
+[17] | 
+[78] | 
+[62] | 
+[51] | 
+[52] | 
+[90] | 
+[46] | 
+[63] | 
+[40] | 
+[36] | 
+[37] | 
+[93] |
+[10] | 
+[842] |
+[39] |
+[216] |
+[44] |
+
 `Copyright © 2018 Decalogue. All Rights Reserved.`
 
 关于作者：[Decalogue](https://www.decalogue.cn)
