@@ -61,22 +61,24 @@ Problem | Description
 Problem | Description 
 :------- | :-----:
 [78](https://leetcode.com/problems/subsets/) | Subsets
+[90](https://leetcode.com/problems/subsets-ii/)| Subsets II 
 [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of Phone Number
-[62](https://leetcode.com/problems/unique-paths/) | Unique Paths 
+[62](https://leetcode.com/problems/unique-paths/) | Unique Paths - DP
+[63](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II - DP
 [51] | 
 [52] | 
-[90](https://leetcode.com/problems/subsets-ii/)| Subsets II 
 [46](https://leetcode.com/problems/permutations/) | Permutations 
 [47](https://leetcode.com/problems/permutations-ii/) | Permutations II
-[63](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II 
-[40] | 
+[39](https://leetcode.com/problems/combination-sum/) | Combination Sum
+[40](https://leetcode.com/problems/combination-sum-ii/) | Combination Sum II 
+[216](https://leetcode.com/problems/combination-sum-iii/) | Combination Sum III
+[377](https://leetcode.com/problems/combination-sum-iv/) | Combination Sum IV - DP
 [36] | 
 [37] | 
 [93] |
 [10] | 
 [842] |
 [39] |
-[216] |
 [44] |
 
 `Copyright © 2018 Decalogue. All Rights Reserved.`
