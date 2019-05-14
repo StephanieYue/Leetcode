@@ -60,13 +60,12 @@ Problem | Description
 ## `Backtracking 回溯法`
 Problem | Description 
 :------- | :-----:
-[78] | 
+[78](https://leetcode.com/problems/subsets/) | Subsets
 [17] | 
-[78] | 
 [62] | 
 [51] | 
 [52] | 
-[90] | 
+[90](https://leetcode.com/problems/subsets-ii/)| Subsets II 
 [46] | 
 [63] | 
 [40] | 
