@@ -76,9 +76,8 @@ Problem | Description
 [36](https://leetcode.com/problems/valid-sudoku/) | Valid Sudoku
 [37](https://leetcode.com/problems/sudoku-solver/) | Sudoku Solver 
 [93](https://leetcode.com/problems/restore-ip-addresses/) | Restore IP Address
-[10] | 
-[842] |
-[39] |
+[10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching - DP 
+[842](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Split Array into Fibonacci
 [44] |
 
 `Copyright © 2018 Decalogue. All Rights Reserved.`
