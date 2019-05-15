@@ -65,8 +65,8 @@ Problem | Description
 [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of Phone Number
 [62](https://leetcode.com/problems/unique-paths/) | Unique Paths - DP
 [63](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II - DP
-[51] | 
-[52] | 
+[51](https://leetcode.com/problems/n-queens/) | N Queens 
+[52](https://leetcode.com/problems/n-queens-ii/) | N Queens II 
 [46](https://leetcode.com/problems/permutations/) | Permutations 
 [47](https://leetcode.com/problems/permutations-ii/) | Permutations II
 [39](https://leetcode.com/problems/combination-sum/) | Combination Sum
