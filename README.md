@@ -1,4 +1,4 @@
-# 高效刷 LeetCode
+# 高效刷 LeetCode Python Solutions
 ## `Binary Search 二分查找`
 
 Problem | Description
@@ -78,7 +78,7 @@ Problem | Description
 [93](https://leetcode.com/problems/restore-ip-addresses/) | Restore IP Address
 [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching - DP 
 [842](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Split Array into Fibonacci
-[44](https://leetcode.com/problems/wildcard-matching/) | Wildcard 
+[44](https://leetcode.com/problems/wildcard-matching/) | Wildcard - Finite-state machine
 
 `Copyright © 2018 Decalogue. All Rights Reserved.`
 
