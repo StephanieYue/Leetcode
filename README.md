@@ -73,7 +73,7 @@ Problem | Description
 [40](https://leetcode.com/problems/combination-sum-ii/) | Combination Sum II 
 [216](https://leetcode.com/problems/combination-sum-iii/) | Combination Sum III
 [377](https://leetcode.com/problems/combination-sum-iv/) | Combination Sum IV - DP
-[36] | 
+[36](https://leetcode.com/problems/valid-sudoku/) | Valid Sudoku - not using Backtracking 
 [37] | 
 [93] |
 [10] | 
