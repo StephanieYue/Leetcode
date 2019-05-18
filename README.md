@@ -79,3 +79,26 @@ Problem | Description
 [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching - DP 
 [842](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Split Array into Fibonacci
 [44](https://leetcode.com/problems/wildcard-matching/) | Wildcard - Finite-state machine
+
+## `Divide And Conque 分治法`
+Problem | Description 
+:------- | :-----:
+[509] | Fibonacci - Maxtrix Calculation
+[493] |
+[23] |
+[973] |
+[241] |
+[240] |
+[312] |
+[4] |
+[215] |
+[218] |
+[912] | Basic Sort
+[53] |
+[54] |
+[395] |
+[59] |
+[644] |
+[617] |
+
+
