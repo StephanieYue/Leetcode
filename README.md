@@ -80,7 +80,7 @@ Problem | Description
 [842](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Split Array into Fibonacci
 [44](https://leetcode.com/problems/wildcard-matching/) | Wildcard - Finite-state machine
 
-## `Divide And Conque 分治法`
+## `Divide And Conquer 分治法`
 Problem | Description 
 :------- | :-----:
 [509] | Fibonacci - Maxtrix Calculation
