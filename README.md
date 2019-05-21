@@ -83,17 +83,16 @@ Problem | Description
 ## `Divide And Conquer 分治法`
 Problem | Description 
 :------- | :-----:
-[509] | Fibonacci - Maxtrix Calculation
-[493] |
-[23] |
-[973] |
+[509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci - Maxtrix Calculation
+[493](https://leetcode.com/problems/reverse-pairs/) | Reverse Pairs
+[23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge K sorted list
+[973](https://leetcode.com/problems/k-closest-points-to-origin/) | K Closest - Heapq
 [241] |
-[240] |
+[240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Search 2D Matrix
 [312] |
 [4] |
 [215] |
 [218] |
-[912] | Basic Sort
 [53] |
 [54] |
 [395] |
