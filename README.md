@@ -87,7 +87,7 @@ Problem | Description
 [493](https://leetcode.com/problems/reverse-pairs/) | Reverse Pairs
 [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge K sorted list
 [973](https://leetcode.com/problems/k-closest-points-to-origin/) | K Closest - Heapq
-[241] |
+[241](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Different Ways to Add Paratheses
 [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Search 2D Matrix
 [312] |
 [4] |
