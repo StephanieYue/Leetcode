@@ -96,8 +96,6 @@ Problem | Description
 [53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray - didn't use DC
 [54](https://leetcode.com/problems/spiral-matrix/) | Spiral Matrix
 [395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/submissions/) | Longest Substring with At Least K Repeating Characters - DFS
-[59] |
-[644] |
-[617] |
-
+[59](https://leetcode.com/problems/spiral-matrix-ii/submissions/) | Spiral Matrix II - didn't use DC
+[644](https://leetcode.com/problems/maximum-average-subarray-ii/) | Maximum Average Subarray - Convex Hull
 
