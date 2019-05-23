@@ -95,7 +95,7 @@ Problem | Description
 [218](https://leetcode.com/problems/the-skyline-problem/) | Skyline Porblem - Hard
 [53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray - didn't use DC
 [54](https://leetcode.com/problems/spiral-matrix/) | Spiral Matrix
-[395] |
+[395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/submissions/) | Longest Substring with At Least K Repeating Characters - DFS
 [59] |
 [644] |
 [617] |
