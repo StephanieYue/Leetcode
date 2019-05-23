@@ -89,12 +89,12 @@ Problem | Description
 [973](https://leetcode.com/problems/k-closest-points-to-origin/) | K Closest - Heapq
 [241](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Different Ways to Add Paratheses
 [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Search 2D Matrix
-[312] |
-[4] |
-[215] |
-[218] |
-[53] |
-[54] |
+[312](https://leetcode.com/problems/burst-balloons/submissions/) | Burst Balloons
+[4](https://leetcode.com/problems/median-of-two-sorted-arrays/)| Median or two sorted array
+[215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth largest element
+[218](https://leetcode.com/problems/the-skyline-problem/) | Skyline Porblem - Hard
+[53]((https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray - didn't use DC
+[54](https://leetcode.com/problems/spiral-matrix/) | Spiral Matrix
 [395] |
 [59] |
 [644] |
