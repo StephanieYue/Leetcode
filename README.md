@@ -93,7 +93,7 @@ Problem | Description
 [4](https://leetcode.com/problems/median-of-two-sorted-arrays/)| Median or two sorted array
 [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth largest element
 [218](https://leetcode.com/problems/the-skyline-problem/) | Skyline Porblem - Hard
-[53]((https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray - didn't use DC
+[53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray - didn't use DC
 [54](https://leetcode.com/problems/spiral-matrix/) | Spiral Matrix
 [395] |
 [59] |
