@@ -99,4 +99,10 @@ Problem | Description
 [59](https://leetcode.com/problems/spiral-matrix-ii/submissions/) | Spiral Matrix II - didn't use DC
 [644](https://leetcode.com/problems/maximum-average-subarray-ii/) | Maximum Average Subarray - Convex Hull
 
+## `Bit Manipulation 位运算`
+
 [模板参照](https://github.com/Decalogue/AlgorithmMap/tree/master/leetcode)
+:------- | :-----:
+[190] |
+[191] |
+[371] |
