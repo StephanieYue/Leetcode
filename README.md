@@ -108,16 +108,16 @@ Problem | Description
 [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Best Time To Buy And Sell Stock IV
 [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Best Time To Buy And Sell Stock With Cooldown
 [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Best Time To Buy And Sell Stock With Fee
-[120] |
-[64] |
-[62] |
-[300] |
+[120](https://leetcode.com/problems/triangle/) | Triangle
+[64](https://leetcode.com/problems/minimum-path-sum/) | Minimum Path Sum
+[62](https://leetcode.com/problems/unique-paths/) | Unique Paths
+[300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence
 [139] |
+[322] |
 [72] |
 [53] |
 [198] |
 [152] |
-[322] |
 [718] |
 
 
