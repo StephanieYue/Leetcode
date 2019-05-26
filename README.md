@@ -112,13 +112,13 @@ Problem | Description
 [64](https://leetcode.com/problems/minimum-path-sum/) | Minimum Path Sum
 [62](https://leetcode.com/problems/unique-paths/) | Unique Paths
 [300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence
-[139] |
-[322] |
-[72] |
-[53] |
-[198] |
-[152] |
-[718] |
+[139](https://leetcode.com/problems/word-break/) | Word Break
+[322](https://leetcode.com/problems/coin-change/) | Coin Change
+[72](https://leetcode.com/problems/edit-distance/) | Edit Distance
+[53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray
+[198](https://leetcode.com/problems/house-robber/) | House Robber
+[152](https://leetcode.com/problems/maximum-product-subarray/) | Maximum Product Subarray
+[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Maximum Length of Repeated Subarray
 
 
 
