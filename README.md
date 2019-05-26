@@ -100,8 +100,9 @@ Problem | Description
 [644](https://leetcode.com/problems/maximum-average-subarray-ii/) | Maximum Average Subarray - Convex Hull
 
 ## `Dynamic Programming 动态规划`
+Problem | Description 
 :------- | :-----:
-[121] |
+[121] | 
 [122] |
 [123] |
 [188] |
@@ -121,6 +122,7 @@ Problem | Description
 
 
 ## `Bit Manipulation 位运算`
+Problem | Description 
 :------- | :-----:
 [190] |
 [191] |
