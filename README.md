@@ -102,12 +102,13 @@ Problem | Description
 ## `Dynamic Programming 动态规划`
 Problem | Description 
 :------- | :-----:
-[121] | 
-[122] |
-[123] |
-[188] |
-[309] |
-[714] |
+[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time To Buy And Sell Stock I
+[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time To Buy And Sell Stock II
+[123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Best Time To Buy And Sell Stock III
+[188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Best Time To Buy And Sell Stock IV
+[309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Best Time To Buy And Sell Stock With Cooldown
+[714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Best Time To Buy And Sell Stock With Fee
+[120] |
 [64] |
 [62] |
 [300] |
