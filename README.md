@@ -121,6 +121,13 @@ Problem | Description
 [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Maximum Length of Repeated Subarray
 
 
+## `Topological Sort 拓扑排序`
+Problem | Description 
+:------- | :-----:
+[207](https://leetcode.com/problems/course-schedule/) | Course Schedule
+[210](https://leetcode.com/problems/course-schedule-ii/) | Course Shcedule II
+[269](https://leetcode.com/problems/alien-dictionary/) | Alien Dictionary
+[444](https://leetcode.com/problems/sequence-reconstruction/) | Sequence Reconstruction
 
 ## `Bit Manipulation 位运算`
 Problem | Description 
